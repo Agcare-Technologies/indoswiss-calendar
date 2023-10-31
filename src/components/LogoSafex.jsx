@@ -6,7 +6,7 @@ const LogoSafex = ({ size }) => {
   const navigate = useNavigate();
   const sizeclasses = cn("mx-auto", {
     "w-[110px] sm:hidden": size === "big",
-    "w-[100px] sm:hidden": size === "small",
+    "w-[120px] sm:hidden": size === "small",
     "w-[229px] hidden sm:block": size === "desktopHome",
     "w-[204px] hidden sm:block": size === "desktopFooter",
     "w-[72px] block sm:hidden": size === "mobileFooter",
