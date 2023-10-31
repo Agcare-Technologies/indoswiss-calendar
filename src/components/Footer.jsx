@@ -14,16 +14,16 @@ const Footer = () => {
         </div>
         <div>
           <div className='flex space-x-1'>
-            <a href='https://www.facebook.com/safexchemicals/'>
+            <a href='https://www.facebook.com/p/Indo-Swiss-Chemicals-Ltd-100063774614972/'>
               <ImFacebook size={20} className='p-1 m-1 bg-white rounded-md' />
             </a>
-            <a href='https://in.linkedin.com/company/safexchemicals'>
+            <a href='https://in.linkedin.com/company/indo-swiss-chemicals-limited'>
               <RiLinkedinFill
                 size={20}
                 className='p-1 m-1 bg-white rounded-md'
               />
             </a>
-            <a href='https://www.youtube.com/c/safexchemicalsindialtd'>
+            <a href='https://www.youtube.com/channel/UC9LiFU2qDzpVD0BYqN728Bw/featured'>
               <FaYoutube size={20} className='p-1 m-1 bg-white rounded-md' />
             </a>
           </div>
